@@ -56,8 +56,11 @@
 							<cloudHubDeployment>
 								<applicationName>test-ny-qpl</applicationName>
 								<environment>test</environment>
+								
+								
 								<workers>1</workers>
 								<workerType>MICRO</workerType>
+								
 								<properties>
 									<http.port>9898</http.port>
 
@@ -88,7 +91,7 @@
 						<muleVersion>4.8.0</muleVersion>
 						<username>mayar1991</username>
 						<password>Mulesoft@@1991</password>
-						<applicationName>dev-ny-qpl</applicationName>
+						
 						
 						<region>us-east-1</region>
 						<workers>1</workers>
